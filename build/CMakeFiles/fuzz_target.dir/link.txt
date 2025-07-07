@@ -1,0 +1,1 @@
+clang++ -O3 -DNDEBUG -fsanitize=fuzzer,address CMakeFiles/fuzz_target.dir/examples/fuzz_target.cpp.o -o fuzz_target 

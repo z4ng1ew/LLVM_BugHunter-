@@ -1,0 +1,1 @@
+clang++ -O3 -DNDEBUG -fsanitize=fuzzer,address,undefined CMakeFiles/advanced_fuzzing.dir/advanced_fuzzing.cpp.o -o advanced_fuzzing 

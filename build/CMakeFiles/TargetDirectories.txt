@@ -1,0 +1,13 @@
+/home/s/my_cpp/build/CMakeFiles/intrinsics_gen.dir
+/home/s/my_cpp/build/CMakeFiles/omp_gen.dir
+/home/s/my_cpp/build/CMakeFiles/acc_gen.dir
+/home/s/my_cpp/build/CMakeFiles/CountInstructions.dir
+/home/s/my_cpp/build/CMakeFiles/llvm_example.dir
+/home/s/my_cpp/build/CMakeFiles/fuzz_target.dir
+/home/s/my_cpp/build/CMakeFiles/advanced_fuzzing.dir
+/home/s/my_cpp/build/CMakeFiles/edit_cache.dir
+/home/s/my_cpp/build/CMakeFiles/rebuild_cache.dir
+/home/s/my_cpp/build/CMakeFiles/list_install_components.dir
+/home/s/my_cpp/build/CMakeFiles/install.dir
+/home/s/my_cpp/build/CMakeFiles/install/local.dir
+/home/s/my_cpp/build/CMakeFiles/install/strip.dir

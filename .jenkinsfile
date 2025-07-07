@@ -1,0 +1,15 @@
+pipeline {
+    agent any
+    stages {
+        stage('Build LLVM Project') {
+            steps {
+                sh 'clang++ llvm_example.cpp -o llvm_example $(llvm-config --cxxflags --ldflags --system-libs --libs core)'
+            }
+        }
+        stage('Run Fuzzing') {
+            steps {
+                sh './fuzz_target'
+            }
+        }
+    }
+}
