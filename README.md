@@ -73,7 +73,7 @@ cd llvm-fuzzing-project
 ---
 
 ### Структура проекта
-```
+
 llvm-fuzzing-project/
 ├── CMakeLists.txt          # Конфигурация сборки
 ├── build.sh                # Скрипт сборки
@@ -88,7 +88,7 @@ llvm-fuzzing-project/
 ├── tests/                  # Тестовые данные
 ├── reports/                # Отчеты фаззинга
 └── docs/                   # Документация
-```
+
 
 ### Ключевые компоненты
 1. **Кастомный LLVM Pass** (`src/CountInstructions.cpp`):  
